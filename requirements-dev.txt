@@ -12,7 +12,9 @@ factory-boy==2.8.1 \
     --hash=sha256:a6644e391a371be603aca8624f3dedbc5a2aa4622878c20494ba17abb4b171bb
 # Note: fake_factory gets changed to faker sometime after September 15th, 2016. That probably
 # means we need to update fake_factory and factory_boy packages.
-fake_factory==0.5.10 --hash=sha256:a3491f0a745a8bdd8199d1ffa04aeee3e38146a4cc3e7789ae785d159a9f69c4
+fake-factory==9999.9.9 \
+    --hash=sha256:60c64a953c03e29fbee6b59fcb700c86a313778d68dc5816fc560ef515019d77 \
+    --hash=sha256:f5bd18deb22ad8cb4402513c025877bc6b50de58902d686b6b21ba8981dce260
 python-dateutil==2.5.3 --hash=sha256:598499a75be2e5e18a66f12c00dd47a069de24794effeda4228bfc760f44f527
 Sphinx==1.4.5 --hash=sha256:a1901af3d437473662daca2ee8f03c232d84af08a0b119d6bc55020661b12ab8
 pbr==1.10.0 --hash=sha256:f5cf7265a80636ecff66806d13494cbf9d77a3758a65fd8b4d4d4bee81b0c375
