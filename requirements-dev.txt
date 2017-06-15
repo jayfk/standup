@@ -49,9 +49,9 @@ urlwait==0.4 \
 flake8==3.3.0 \
     --hash=sha256:83905eadba99f73fbfe966598aaf1682b3eb6755d2263c5b33a4e8367d60b0d1 \
     --hash=sha256:b907a26dcf5580753d8f80f1be0ec1d5c45b719f7bac441120793d1a70b03f12
-mccabe==0.5.2 \
-    --hash=sha256:91cc38b2c7636aaf1903e06d96ee960fb3dff9ca3afc595627c9a638f8e86d2b \
-    --hash=sha256:3473f06c8b757bbb5cdf295099bf64032e5f7d6fe0ec2f97ee9b23cb0a435aff
+mccabe==0.6.1 \
+    --hash=sha256:ab8a6258860da4b6677da4bd2fe5dc2c659cff31b3ee4f7f5d64e79735b80d42 \
+    --hash=sha256:dd8d182285a0fe56bace7f45b5e7d1a6ebcbf524e8f3bd87eb0f125271b8831f
 pycodestyle==2.0.0 \
     --hash=sha256:2ce83f2046f5ab85c652ceceddfbde7a64a909900989b4b43e92b10b743d0ce5 \
     --hash=sha256:37f0420b14630b0eaaf452978f3a6ea4816d787c3e6dcbba6fb255030adae2e7
