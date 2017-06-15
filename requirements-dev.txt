@@ -3,9 +3,9 @@
 pytest==3.1.2 \
     --hash=sha256:41e618f317957505ae2e81935733d8304d84170f7e21dfb15184d6fa8d7a5230 \
     --hash=sha256:795ec29fbba70b22a593691ce8bcd4bdde2dc96e8099731f73c7d8bb3ce879bf
-pytest-django==3.0.0 \
-    --hash=sha256:7898731205fa245926c800273dcffcd9b25e0b660a363ecb6cc2901ffe4aa1cc \
-    --hash=sha256:5952283b0e6e0f9d8cb46803636e3940e1c77da8a529f03a8a4320f52d9bf560
+pytest-django==3.1.2 \
+    --hash=sha256:00995c2999b884a38ae9cd30a8c00ed32b3d38c1041250ea84caf18085589662 \
+    --hash=sha256:038ccc5a9daa1b1b0eb739ab7dce54e495811eca5ea3af4815a2a3ac45152309
 mock==2.0.0 --hash=sha256:5ce3c71c5545b472da17b72268978914d0252980348636840bd34a00b5cc96c1
 factory_boy==2.7.0 --hash=sha256:36c949d5c7adefb02d25323b7a5a97dc698e58ef84c4654845ecb2e34bee9a23
 # Note: fake_factory gets changed to faker sometime after September 15th, 2016. That probably
