@@ -7,7 +7,9 @@ pytest-django==3.1.2 \
     --hash=sha256:00995c2999b884a38ae9cd30a8c00ed32b3d38c1041250ea84caf18085589662 \
     --hash=sha256:038ccc5a9daa1b1b0eb739ab7dce54e495811eca5ea3af4815a2a3ac45152309
 mock==2.0.0 --hash=sha256:5ce3c71c5545b472da17b72268978914d0252980348636840bd34a00b5cc96c1
-factory_boy==2.7.0 --hash=sha256:36c949d5c7adefb02d25323b7a5a97dc698e58ef84c4654845ecb2e34bee9a23
+factory-boy==2.8.1 \
+    --hash=sha256:246f7da9caf9bf855aaa73b4963353ccb147fdd3adcbc419fa29422c5b69dd4c \
+    --hash=sha256:a6644e391a371be603aca8624f3dedbc5a2aa4622878c20494ba17abb4b171bb
 # Note: fake_factory gets changed to faker sometime after September 15th, 2016. That probably
 # means we need to update fake_factory and factory_boy packages.
 fake_factory==0.5.10 --hash=sha256:a3491f0a745a8bdd8199d1ffa04aeee3e38146a4cc3e7789ae785d159a9f69c4
